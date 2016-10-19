@@ -14,6 +14,10 @@ You should create one R script called run_analysis.R that does the following.
 ## Steps to work on this course project
 
 1. Download the data source and put into a folder on your local drive. You'll have a "UCI HAR Dataset" folder.
-2. Then set it as your working directory using ```setwd()``` function in RStudio.
+2. Then set it as your working directory using "setwd()" function in RStudio.
 3. Run source("run_analysis.R"), then it will generate a new file tiny_data.txt in your working directory.
 4. After that do the analysis based on the question given
+
+##CodeBook
+
+In this CodeBook, there will be some explaination how the analysis going and changes have been made toward run_analysis.R.
